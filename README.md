@@ -118,6 +118,26 @@ An experimental Windows-based assistant exploring screen capture workflows, desk
 
 **What's next?** Public repositories, code samples, technical write-ups, and demos will be linked here when reviewed and ready for sharing.
 
+## ✨ How I approach projects
+
+<table>
+<tr>
+<td width="33%" valign="top"><strong>01 / Design</strong><br/><br/>Understand the problem, define requirements, and break the work into manageable components.</td>
+<td width="33%" valign="top"><strong>02 / Build</strong><br/><br/>Implement modular features with clear interfaces and practical trade-offs.</td>
+<td width="33%" valign="top"><strong>03 / Improve</strong><br/><br/>Test important flows, investigate failures, document decisions, and iterate.</td>
+</tr>
+</table>
+
+## 🌐 Beyond GitHub
+
+My personal website brings together my developer profile and a separate place to explore my work.
+
+<div align="center">
+
+<a href="https://itstheo.pages.dev"><strong>🌐 Visit my portfolio — itstheo.pages.dev</strong></a>
+
+</div>
+
 ## 📊 Explore my GitHub
 
 GitHub's contribution chart and repository activity are available directly on my profile, without relying on third-party image generators.
@@ -130,7 +150,7 @@ GitHub's contribution chart and repository activity are available directly on my
 
 > Public repositories are being prepared and documented. Some project work remains private.
 
-## 🎯 What I'm focused on
+## 🎯 Current priorities
 
 - Writing cleaner, more maintainable backend and automation code
 - Improving test coverage and reliability in personal projects
