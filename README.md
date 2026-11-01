@@ -8,6 +8,7 @@
 
 **Istanbul, Türkiye** &nbsp;·&nbsp; **Open to remote opportunities** &nbsp;·&nbsp; **Turkish / English**
 
+<a href="https://itstheo.pages.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit%20Website-38BDF8?style=for-the-badge&logo=cloudflarepages&logoColor=white&labelColor=142A42"></a>
 <a href="mailto:biliribrahimefe@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact%20Me-38BDF8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=142A42"></a>
 <a href="https://github.com/biliribrahimefe-crypto?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/GitHub-Explore%20Projects-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=142A42"></a>
 
@@ -117,16 +118,17 @@ An experimental Windows-based assistant exploring screen capture workflows, desk
 
 **What's next?** Public repositories, code samples, technical write-ups, and demos will be linked here when reviewed and ready for sharing.
 
-## 📊 GitHub activity
+## 📊 Explore my GitHub
 
-<div align="center">
+GitHub's contribution chart and repository activity are available directly on my profile, without relying on third-party image generators.
 
-<img src="https://github-readme-stats.vercel.app/api?username=biliribrahimefe-crypto&show_icons=true&hide_border=true&bg_color=0B1222&title_color=38BDF8&icon_color=A78BFA&text_color=B9CCE0" alt="GitHub activity statistics" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biliribrahimefe-crypto&layout=compact&hide_border=true&bg_color=0B1222&title_color=38BDF8&text_color=B9CCE0" alt="Public repository language breakdown" height="165" />
+| Explore | What's inside |
+| :--- | :--- |
+| [📈 Contribution activity](https://github.com/biliribrahimefe-crypto) | Public contributions and recent activity |
+| [📂 Public repositories](https://github.com/biliribrahimefe-crypto?tab=repositories) | Source code and available projects |
+| [🌐 Personal portfolio](https://itstheo.pages.dev) | Personal website and portfolio |
 
-<sub>Statistics depend on public GitHub data and third-party image availability. Private work is not reflected here.</sub>
-
-</div>
+> Public repositories are being prepared and documented. Some project work remains private.
 
 ## 🎯 What I'm focused on
 
@@ -139,6 +141,7 @@ An experimental Windows-based assistant exploring screen capture workflows, desk
 
 I'm interested in **remote development opportunities**, technical collaboration, and projects where practical engineering makes a measurable difference.
 
+🌐 **Portfolio:** [itstheo.pages.dev](https://itstheo.pages.dev)  
 📬 **Email:** [biliribrahimefe@gmail.com](mailto:biliribrahimefe@gmail.com)  
 🌍 **Location:** Istanbul, Türkiye  
 🗣️ **Languages:** Turkish (native) · English (B2)  
