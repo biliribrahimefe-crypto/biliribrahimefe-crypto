@@ -1,158 +1,124 @@
 <div align="center">
 
-<a href="https://efedev.com.tr" title="EFEDEV — Efe Bilir">
-  <img src="./assets/profile-banner.svg" alt="EFEDEV — Efe Bilir | Independent Developer · Game Systems · Desktop Automation · Interactive Web" width="100%" />
-</a>
+<sub><strong>EFEDEV</strong> &nbsp; / &nbsp; INDEPENDENT SOFTWARE DEVELOPMENT</sub>
 
-<br />
+<h1>Efe Bilir</h1>
 
-<a href="https://efedev.com.tr"><img src="https://img.shields.io/badge/EXPLORE-PORTFOLIO-64E9EC?style=for-the-badge&labelColor=0B1120&logo=googlechrome&logoColor=64E9EC" alt="Explore EFEDEV portfolio" /></a>
-<a href="https://efedev.com.tr/projects"><img src="https://img.shields.io/badge/VIEW-SELECTED_WORK-AE91F8?style=for-the-badge&labelColor=0B1120&logo=codeforces&logoColor=AE91F8" alt="Explore selected projects" /></a>
-<a href="mailto:biliribrahimefe@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EMAIL-F0F4FF?style=for-the-badge&labelColor=0B1120&logo=gmail&logoColor=F0F4FF" alt="Contact Efe by email" /></a>
+<h3>Building the systems behind the experience.</h3>
 
-<br /><br />
+<p>
+  I develop game infrastructure, desktop automation and interactive software.<br>
+  From the first architectural decision to the last edge case, I care about how things work.
+</p>
 
-**INDEPENDENT SOFTWARE DEVELOPER** &nbsp;·&nbsp; **ISTANBUL, TÜRKİYE** &nbsp;·&nbsp; **AVAILABLE FOR REMOTE COLLABORATION**
+<p>
+  <a href="https://efedev.com.tr"><strong>Portfolio</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://efedev.com.tr/projects"><strong>Selected work</strong></a>
+  &nbsp; · &nbsp;
+  <a href="mailto:biliribrahimefe@gmail.com"><strong>Get in touch</strong></a>
+</p>
 
-*I don't just build interfaces. I build the systems behind them.*
+<sub>ISTANBUL, TÜRKİYE &nbsp; / &nbsp; OPEN TO REMOTE OPPORTUNITIES</sub>
 
 </div>
 
----
+<br>
 
-### `01 / THE DEVELOPER`
+## 01 / About
 
-I'm **Efe Bilir** — an independent developer with a background in **Information Technologies / Software Development**. I work across game infrastructure, local desktop automation, backend integrations, and expressive web experiences.
+I'm **Efe**, a software developer with an educational background in **Information Technologies and Software Development**. I build across several disciplines, but the common thread is the same: **turning ideas into systems that are understandable, maintainable and useful**.
 
-My focus is the space between **what people see** and **what actually makes it work**: event flows, performance, architecture, interfaces, and the details that make software dependable.
+My work spans multiplayer game mechanics, backend integrations, Windows applications and motion-driven web experiences. I enjoy the parts of software that don't always appear in a screenshot — architecture, state, performance, error handling and testing.
 
-`BUILD` &nbsp; `TEST` &nbsp; `REFINE` &nbsp; `SHIP`
+> **What I build matters. How it works matters just as much.**
 
-### `02 / SELECTED WORK`
+## 02 / Selected work
 
-<p align="left">A selection of projects I've built or contributed to. Each link opens a written case study on my portfolio, <strong>not</strong> an implied public source repository.</p>
+A closer look at some of the projects I've worked on. The links lead to **portfolio case studies**, not necessarily public source repositories.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <sub><b>01 — DESKTOP SYSTEMS</b></sub>
+      <sub>01 &nbsp; / &nbsp; DESKTOP AUTOMATION</sub>
       <h3>JARVIS</h3>
-      <p><strong>Windows desktop assistant &amp; automation</strong></p>
-      <p>A Python-based desktop assistant with a custom Tkinter interface, modular tool routing, application control and Windows automation.</p>
+      <p>A Windows desktop assistant built around modular tool routing, native application control and a custom Tkinter interface.</p>
       <p><code>Python</code> <code>Tkinter</code> <code>Windows</code></p>
-      <a href="https://efedev.com.tr/projects/jarvis"><b>Explore JARVIS →</b></a>
+      <a href="https://efedev.com.tr/projects/jarvis"><strong>Read the case study ↗</strong></a>
     </td>
     <td width="50%" valign="top">
-      <sub><b>02 — GAME INFRASTRUCTURE</b></sub>
+      <sub>02 &nbsp; / &nbsp; GAME INFRASTRUCTURE</sub>
       <h3>KTX Suite</h3>
-      <p><strong>Modular Minecraft server engineering</strong></p>
-      <p>Performance-conscious plugin systems covering anticheat, spawner mechanics and progression workflows, with asynchronous processing where appropriate.</p>
+      <p>A collection of Minecraft server systems covering anti-cheat, spawner mechanics and progression, with attention to event flow and performance.</p>
       <p><code>Java</code> <code>Paper API</code> <code>SQL</code></p>
-      <a href="https://efedev.com.tr/projects/ktx-suite"><b>Explore KTX Suite →</b></a>
+      <a href="https://efedev.com.tr/projects/ktx-suite"><strong>Read the case study ↗</strong></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub><b>03 — INTERACTIVE WEB</b></sub>
-      <h3>VANTA</h3>
-      <p><strong>Cinematic automotive web experience</strong></p>
-      <p>An original motion-driven website for a fictional hypercar brand, exploring scroll choreography, responsive interfaces and SVG art direction.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>GSAP</code></p>
-      <a href="https://efedev.com.tr/projects/vanta"><b>Explore VANTA →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <sub><b>04 — GAME INTERFACES</b></sub>
-      <h3>FiveM Systems</h3>
-      <p><strong>Roleplay scripting &amp; NUI engineering</strong></p>
-      <p>Server and client-side Lua systems paired with React-based in-game interfaces, event-driven workflows and server-side validation.</p>
-      <p><code>Lua</code> <code>React</code> <code>TypeScript</code></p>
-      <a href="https://efedev.com.tr/projects/fivem-systems"><b>Explore FiveM Systems →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sub><b>05 — MULTIPLAYER SYSTEMS</b></sub>
+      <sub>03 &nbsp; / &nbsp; MULTIPLAYER SYSTEMS</sub>
       <h3>Vex Craft</h3>
-      <p><strong>SkyBlock &amp; Minecraft server architecture</strong></p>
-      <p>Game-mode design and infrastructure across progression, virtual economies and server-side systems. My work focuses on the architecture beneath the gameplay.</p>
+      <p>SkyBlock-oriented server architecture, progression mechanics and virtual economy systems for a multiplayer Minecraft experience.</p>
       <p><code>Java</code> <code>Paper</code> <code>Redis</code></p>
-      <a href="https://efedev.com.tr/projects/vex-craft"><b>Explore Vex Craft →</b></a>
+      <a href="https://efedev.com.tr/projects/vex-craft"><strong>Read the case study ↗</strong></a>
     </td>
     <td width="50%" valign="top">
-      <sub><b>06 — AUTOMATION</b></sub>
-      <h3>Discord Ecosystems</h3>
-      <p><strong>Community tooling &amp; integrations</strong></p>
-      <p>Modular bots and integrations for support tickets, moderation, event handling and workflows connected to game communities.</p>
-      <p><code>JavaScript</code> <code>Discord.js</code> <code>Node.js</code></p>
-      <a href="https://efedev.com.tr/projects/discord-ecosystems"><b>Explore Discord Ecosystems →</b></a>
+      <sub>04 &nbsp; / &nbsp; INTERACTIVE WEB</sub>
+      <h3>VANTA</h3>
+      <p>A cinematic website concept for a fictional automotive brand, exploring responsive interfaces, motion design and visual storytelling.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>GSAP</code></p>
+      <a href="https://efedev.com.tr/projects/vanta"><strong>Read the case study ↗</strong></a>
     </td>
   </tr>
 </table>
 
-<p align="center"><a href="https://efedev.com.tr/projects"><b>VIEW THE FULL PROJECT INDEX &amp; TECHNICAL BREAKDOWNS ↗</b></a></p>
+**Also in my workspace:** [FiveM Systems](https://efedev.com.tr/projects/fivem-systems) — Lua scripting and React-based NUI &nbsp;·&nbsp; [Discord Ecosystems](https://efedev.com.tr/projects/discord-ecosystems) — bots, tickets and community automation.
 
----
+<p align="right"><a href="https://efedev.com.tr/projects"><strong>Explore all projects →</strong></a></p>
 
-### `03 / ENGINEERING TOOLKIT`
+## 03 / Technical toolkit
 
-<table>
-  <tr>
-    <td width="27%" valign="top"><b>Languages</b></td>
-    <td><code>Java</code> <code>Python</code> <code>TypeScript</code> <code>JavaScript</code> <code>Lua</code> <code>SQL</code></td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Interfaces</b></td>
-    <td><code>React</code> <code>HTML/CSS</code> <code>GSAP</code> <code>Tkinter</code> <code>SVG</code></td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Game systems</b></td>
-    <td><code>Paper API</code> <code>Velocity</code> <code>FiveM</code> <code>Discord.js</code></td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Data &amp; workflow</b></td>
-    <td><code>MySQL</code> <code>SQLite</code> <code>Redis</code> <code>Git</code> <code>Docker</code></td>
-  </tr>
-</table>
+| Area | Technologies |
+| :-- | :-- |
+| **Languages** | `Java` · `Python` · `TypeScript` · `JavaScript` · `Lua` · `SQL` |
+| **Web & interfaces** | `React` · `HTML/CSS` · `GSAP` · `Tkinter` |
+| **Game & community** | `Paper API` · `Velocity` · `FiveM` · `Discord.js` |
+| **Data & tooling** | `MySQL` · `SQLite` · `Redis` · `Git` · `Docker` |
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,js,react,html,css,git,github,vscode,docker,windows&theme=dark&perline=12" alt="Java, Python, TypeScript, JavaScript, React, HTML, CSS, Git, GitHub, VS Code, Docker and Windows" />
-  <br/>
-  <sub>Tools used or explored across projects, not an equal-proficiency ranking.</sub>
-</div>
+<sub>Technologies reflect project exposure, not a claim of equal proficiency across every tool.</sub>
 
-### `04 / HOW I APPROACH A BUILD`
+## 04 / How I approach software
 
-<table>
-<tr>
-<td width="33%" valign="top"><strong>01 &nbsp; DEFINE</strong><br/><br/>Understand the actual problem, users and technical constraints before reaching for a framework.</td>
-<td width="33%" valign="top"><strong>02 &nbsp; ENGINEER</strong><br/><br/>Separate responsibilities, make trade-offs explicit and keep complexity proportional to the problem.</td>
-<td width="33%" valign="top"><strong>03 &nbsp; VERIFY</strong><br/><br/>Build, test, investigate failures and document what was genuinely validated.</td>
-</tr>
-</table>
+| Discover | Engineer | Verify |
+| :-- | :-- | :-- |
+| Understand the real problem, constraints and failure cases. | Keep responsibilities clear and complexity proportional to the job. | Test expected paths, investigate edge cases and document what was actually checked. |
 
-### `05 / NOW BUILDING`
+Good software isn't defined by the number of features it has. I value **clear boundaries, predictable behaviour and the ability to improve a system without breaking everything around it**.
 
-- **EFEDEV** — <a href="https://efedev.com.tr">efedev.com.tr</a>, a bilingual portfolio for the engineering behind my projects.
-- **JARVIS** — improving desktop automation reliability, local tooling and human-in-the-loop control.
-- **Game infrastructure** — building and refining modular systems for Minecraft and community platforms.
-- **Public technical case studies** — turning private experiments into clear, verifiable engineering write-ups.
+## 05 / Currently building
+
+- **JARVIS:** expanding and refining local Windows automation and tool reliability.
+- **Game systems:** iterating on modular Minecraft infrastructure and connected community tooling.
+- **EFEDEV:** documenting projects and the engineering decisions behind them.
 
 ---
 
 <div align="center">
 
-### LET'S BUILD SOMETHING THAT WORKS.
+<h3>Have an idea worth building?</h3>
 
-Interested in remote development roles, technical collaborations, game systems and automation projects.
+<p>I'm interested in remote development opportunities and thoughtful technical collaborations.</p>
 
-<a href="mailto:biliribrahimefe@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-64E9EC?style=for-the-badge&labelColor=0B1120&logo=gmail&logoColor=64E9EC" alt="Email Efe Bilir" /></a>
-<a href="https://efedev.com.tr"><img src="https://img.shields.io/badge/WEB-EFEDEV.COM.TR-AE91F8?style=for-the-badge&labelColor=0B1120&logo=googlechrome&logoColor=AE91F8" alt="Visit efedev.com.tr" /></a>
-<a href="https://github.com/biliribrahimefe-crypto?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-E9EDF7?style=for-the-badge&labelColor=0B1120&logo=github&logoColor=E9EDF7" alt="Browse GitHub repositories" /></a>
+<p>
+  <a href="mailto:biliribrahimefe@gmail.com"><strong>Email me</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://efedev.com.tr"><strong>Visit EFEDEV</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/biliribrahimefe-crypto?tab=repositories"><strong>GitHub repositories</strong></a>
+</p>
 
-<br/><br/>
-
-<sub>© 2026 EFEDEV · Built with purpose. Verified with care.</sub>
+<sub>EFEDEV &nbsp; © 2026 &nbsp; · &nbsp; Designed with intention. Built with care.</sub>
 
 </div>
 
-<!-- Portfolio case studies document personal work and collaborations. Some project source code and assets remain private; descriptions are not claims of public repositories, commercial clients, or production metrics. -->
+<!-- Selected projects include personal work and collaborations. Some source code is private. Case studies are not claims of public repositories, published benchmarks, or commercial employment. -->
