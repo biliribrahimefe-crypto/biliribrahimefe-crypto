@@ -12,7 +12,7 @@
 <a href="mailto:biliribrahimefe@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-38BDF8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1222" alt="Email Efe" /></a>
 <a href="https://github.com/biliribrahimefe-crypto?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_repositories-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1222" alt="GitHub repositories" /></a>
 
-**New personal portfolio:** `efebilir.com.tr` · **in development**
+**Portfolio preview:** [efedev.pages.dev](https://efedev.pages.dev/) · **Custom domain:** `efedev.com.tr` (connection pending)
 
 </div>
 
@@ -129,7 +129,7 @@ Smaller experiments including AI Screen Assistant and Maps Evaluation Intelligen
 
 ## Currently building
 
-- **EFEDEV portfolio** — a new bilingual, cinematic personal website for `efebilir.com.tr` (**domain acquired; site in development**)
+- **EFEDEV portfolio** — bilingual cinematic personal website, deployed on Cloudflare Pages; connecting `efedev.com.tr`
 - **JARVIS** — refining the desktop-assistant architecture and testing workflows
 - **VANTA V2** — polishing SVG automotive visuals, responsive layouts and scroll interactions
 - **Public case studies** — preparing accurate technical write-ups and publishable examples
@@ -139,7 +139,8 @@ Smaller experiments including AI Screen Assistant and Maps Evaluation Intelligen
 I'm interested in meaningful remote software opportunities and collaborations where practical engineering matters.
 
 - **Email:** [biliribrahimefe@gmail.com](mailto:biliribrahimefe@gmail.com)
-- **Portfolio:** `efebilir.com.tr` *(launching after development and deployment)*
+- **Live preview:** [efedev.pages.dev](https://efedev.pages.dev/)  
+- **Custom domain:** `efedev.com.tr` *(DNS / Pages connection pending)*
 - **GitHub:** [@biliribrahimefe-crypto](https://github.com/biliribrahimefe-crypto)
 - **Based in:** Istanbul, Türkiye
 
