@@ -1,178 +1,153 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Efe Bilir — Software Developer portfolio banner" width="100%" />
+<img src="./assets/profile-banner.svg" alt="EFEDEV — Efe Bilir | Software developer building systems, automation and interactive experiences" width="100%" />
 
-<br/>
+<br />
 
-### Building reliable systems, useful automation, and better game experiences.
+### I don't just write code. I build systems.
 
-**Istanbul, Türkiye** &nbsp;·&nbsp; **Open to remote opportunities** &nbsp;·&nbsp; **Turkish / English**
+**Efe Bilir** · Independent Software Developer · Istanbul, Türkiye  
+**Building game systems, desktop tools, automation & interactive web experiences.**
 
-<a href="https://itstheo.pages.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit%20Website-38BDF8?style=for-the-badge&logo=cloudflarepages&logoColor=white&labelColor=142A42"></a>
-<a href="mailto:biliribrahimefe@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact%20Me-38BDF8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=142A42"></a>
-<a href="https://github.com/biliribrahimefe-crypto?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/GitHub-Explore%20Projects-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=142A42"></a>
+<a href="mailto:biliribrahimefe@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-38BDF8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1222" alt="Email Efe" /></a>
+<a href="https://github.com/biliribrahimefe-crypto?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_repositories-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1222" alt="GitHub repositories" /></a>
+
+**New personal portfolio:** `efebilir.com.tr` · **in development**
 
 </div>
 
 ---
 
-## 👨‍💻 About me
+## About me
 
-I'm **Efe**, a software developer with an educational background in **Information Technologies / Software Development**. I enjoy building practical products, designing server-side mechanics, and making repetitive processes more efficient through automation.
+I'm **Efe**, a developer with a background in **Information Technologies / Software Development**. I enjoy turning ideas into working tools—from multiplayer game mechanics and server-side software to Windows desktop automation and motion-driven websites.
 
-My approach is to start with a real problem, design a maintainable solution, then test and refine it. I'm particularly interested in **backend systems, developer tools, automation, and multiplayer game engineering**.
+I care about **maintainability, practical performance, debugging, and verification**. I build independent projects and continuously improve them through testing and iteration.
+
+- **Currently exploring:** desktop AI assistants, developer tooling, interactive UI and engineering workflows
+- **Open to:** remote software development, technical collaboration, game systems and automation work
+- **Languages:** Turkish (native) · English (B2)
+
+## Selected work
+
+> Projects listed here reflect my independent development work. Some source code, assets, and demonstrations are private or not published yet. A project description is **not** a link to an existing public repository.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔧 Engineering interests
+### 🖥️ JARVIS — Windows Desktop Assistant
+**Python · Tkinter · Windows automation**
 
-- Backend architecture & integrations
-- Workflow automation & tooling
-- Testing, debugging & reliability
-- APIs and structured data
-- Maintainable, modular systems
+A modular personal desktop-assistant project exploring application interaction, tool orchestration, local integrations, and a custom Windows HUD interface.
+
+**Current focus:** reliability · safe automation · extensible tools
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 Game systems
+### 🏎️ VANTA — Cinematic Web Experience
+**React · TypeScript · GSAP · ScrollTrigger · Lenis**
 
-- Minecraft server-side development
-- Gameplay loops & progression
-- Modular plugin ecosystems
-- Economy, dungeons & events
-- Performance-aware game features
+An original interactive website for a **fictional** hypercar brand. Built around scroll-driven storytelling, custom SVG visuals, responsive motion and accessible reduced-motion behavior.
+
+**Current focus:** motion design · frontend engineering · visual polish
 
 </td>
 </tr>
-</table>
-
-## 🛠️ Technologies & tools
-
-<div align="center">
-
-**Languages & development**
-
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" alt="Java, Python, JavaScript, HTML and CSS" />
-
-**Tools & workflow**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,windows&theme=dark" alt="Git, GitHub, Visual Studio Code, IntelliJ IDEA and Windows" />
-
-<sub>Technologies and tools from development and project work; not a claim of equal proficiency in every item.</sub>
-
-</div>
-
-## 🚀 Selected work
-
-> **Portfolio note:** The projects below describe work areas and projects I've worked on. Some source code and deliverables are private or not yet prepared for public release. No public source repository is implied.
-
-<table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🧩 KTX Suite
-**Modular Minecraft plugin systems**
+**Java · Minecraft Paper · modular plugins**
 
-A collection of server-side features spanning administration, gameplay progression, dungeons, and quality-of-life mechanics.
+A collection of game-server systems including anticheat, spawners, progression, administration and gameplay features.
 
-**Focus:** modularity · integrations · reliability
+**Current focus:** maintainability · game mechanics · testing
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌌 Vex Craft
-**Custom Skyblock experience**
+**Minecraft · SkyBlock · server-side systems**
 
-A multiplayer server concept featuring progression-driven gameplay, economies, and custom player experiences.
+A custom SkyBlock/server development project involving progression loops, game economies and gameplay infrastructure.
 
-**Focus:** game systems · balancing · server engineering
+**Current focus:** gameplay systems · balancing · integrations
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🗺️ Maps Evaluation Intelligence
-**Evaluation workflow tooling**
+### 🤖 Discord Ecosystems
+**JavaScript · Discord.js · automation**
 
-Automation and structured workflows for analyzing map-search evaluation tasks.
+Community support and moderation workflows, ticket tools and event-based integrations.
 
-**Focus:** automation · validation · workflow design
+**Current focus:** automation · reliable workflows · user experience
 
 </td>
 <td width="50%" valign="top">
 
-### 🖥️ AI Screen Assistant
-**Desktop productivity tooling**
+### 🧪 Desktop & Workflow Experiments
+**Python · tooling · QA**
 
-An experimental Windows-based assistant exploring screen capture workflows, desktop interfaces, and modular integrations.
+Smaller experiments including AI Screen Assistant and Maps Evaluation Intelligence, focused on desktop interfaces, structured workflows and validation.
 
-**Focus:** desktop software · UX · tooling
+**Current focus:** practical utilities · testing · iteration
 
 </td>
 </tr>
 </table>
 
-**What's next?** Public repositories, code samples, technical write-ups, and demos will be linked here when reviewed and ready for sharing.
-
-## ✨ How I approach projects
-
-<table>
-<tr>
-<td width="33%" valign="top"><strong>01 / Design</strong><br/><br/>Understand the problem, define requirements, and break the work into manageable components.</td>
-<td width="33%" valign="top"><strong>02 / Build</strong><br/><br/>Implement modular features with clear interfaces and practical trade-offs.</td>
-<td width="33%" valign="top"><strong>03 / Improve</strong><br/><br/>Test important flows, investigate failures, document decisions, and iterate.</td>
-</tr>
-</table>
-
-## 🌐 Beyond GitHub
-
-My personal website brings together my developer profile and a separate place to explore my work.
+## Engineering toolkit
 
 <div align="center">
 
-<a href="https://itstheo.pages.dev"><strong>🌐 Visit my portfolio — itstheo.pages.dev</strong></a>
+**Languages & web**
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,html,css&theme=dark" alt="Java, Python, JavaScript, TypeScript, React, HTML and CSS" />
+
+**Tools & workflow**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,windows&theme=dark" alt="Git, GitHub, VS Code, IntelliJ IDEA and Windows" />
+
+<sub>Technologies used or explored across projects; this is not an equal-proficiency ranking.</sub>
 
 </div>
 
-## 📊 Explore my GitHub
+## How I build
 
-GitHub's contribution chart and repository activity are available directly on my profile, without relying on third-party image generators.
+<table>
+<tr>
+<td width="33%" valign="top"><strong>01 / Understand</strong><br/><br/>Clarify the real problem, constraints, and existing architecture before making changes.</td>
+<td width="33%" valign="top"><strong>02 / Implement</strong><br/><br/>Choose a focused, maintainable approach. Keep dependencies and complexity intentional.</td>
+<td width="33%" valign="top"><strong>03 / Verify</strong><br/><br/>Run real builds and tests, inspect failures, and document what is—and is not—confirmed.</td>
+</tr>
+</table>
 
-| Explore | What's inside |
-| :--- | :--- |
-| [📈 Contribution activity](https://github.com/biliribrahimefe-crypto) | Public contributions and recent activity |
-| [📂 Public repositories](https://github.com/biliribrahimefe-crypto?tab=repositories) | Source code and available projects |
-| [🌐 Personal portfolio](https://itstheo.pages.dev) | Personal website and portfolio |
+## Currently building
 
-> Public repositories are being prepared and documented. Some project work remains private.
+- **EFEDEV portfolio** — a new bilingual, cinematic personal website for `efebilir.com.tr` (**domain acquired; site in development**)
+- **JARVIS** — refining the desktop-assistant architecture and testing workflows
+- **VANTA V2** — polishing SVG automotive visuals, responsive layouts and scroll interactions
+- **Public case studies** — preparing accurate technical write-ups and publishable examples
 
-## 🎯 Current priorities
+## Connect
 
-- Writing cleaner, more maintainable backend and automation code
-- Improving test coverage and reliability in personal projects
-- Publishing well-documented, reproducible examples of my work
-- Collaborating on remote software and technical projects
+I'm interested in meaningful remote software opportunities and collaborations where practical engineering matters.
 
-## 🤝 Let's connect
-
-I'm interested in **remote development opportunities**, technical collaboration, and projects where practical engineering makes a measurable difference.
-
-🌐 **Portfolio:** [itstheo.pages.dev](https://itstheo.pages.dev)  
-📬 **Email:** [biliribrahimefe@gmail.com](mailto:biliribrahimefe@gmail.com)  
-🌍 **Location:** Istanbul, Türkiye  
-🗣️ **Languages:** Turkish (native) · English (B2)  
-🔗 **GitHub:** [@biliribrahimefe-crypto](https://github.com/biliribrahimefe-crypto)
+- **Email:** [biliribrahimefe@gmail.com](mailto:biliribrahimefe@gmail.com)
+- **Portfolio:** `efebilir.com.tr` *(launching after development and deployment)*
+- **GitHub:** [@biliribrahimefe-crypto](https://github.com/biliribrahimefe-crypto)
+- **Based in:** Istanbul, Türkiye
 
 ---
 
 <div align="center">
 
-**Build with purpose. Test with care. Improve continuously.**
-
-<sub>Designed for clarity, not inflated metrics.</sub>
+**EFEDEV · Efe Bilir**  
+<sub>Build with purpose. Test with care. Improve continuously.</sub>
 
 </div>
