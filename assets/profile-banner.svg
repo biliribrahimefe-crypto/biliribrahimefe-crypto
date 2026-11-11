@@ -1,41 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-<title id="title">EFEDEV — Efe Bilir, Software Developer</title>
-<desc id="desc">Minimal dark navy developer banner with electric cyan and violet system architecture visualization</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">EFEDEV — Efe Bilir | Independent software developer</title>
+<desc id="desc">Premium midnight developer banner with oversized EFEDEV typography, luminous cyan and violet geometry, and a holographic engineering emblem.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080E19"/><stop offset=".65" stop-color="#0E1C30"/><stop offset="1" stop-color="#111932"/></linearGradient>
-  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#5BE3EB"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
-  <radialGradient id="glow"><stop stop-color="#29C7E7" stop-opacity=".19"/><stop offset="1" stop-color="#29C7E7" stop-opacity="0"/></radialGradient>
-  <pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse"><path d="M35 0H0V35" fill="none" stroke="#6D92B0" stroke-width=".7" opacity=".14"/></pattern>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#060A11"/><stop offset=".52" stop-color="#0B1223"/><stop offset="1" stop-color="#10112A"/></linearGradient>
+  <linearGradient id="brand" x1="0" y1="0" x2="1" y2=".3"><stop stop-color="#70F5F2"/><stop offset=".54" stop-color="#54C5FF"/><stop offset="1" stop-color="#B88BFF"/></linearGradient>
+  <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#75FBEC"/><stop offset=".5" stop-color="#5D8DFF"/><stop offset="1" stop-color="#AF69FF"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#715FFF" stop-opacity=".32"/><stop offset=".48" stop-color="#218CDE" stop-opacity=".14"/><stop offset="1" stop-color="#0B1223" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#89ADD3" stroke-width=".7" opacity=".10"/></pattern>
+  <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="1.2" cy="1.2" r=".9" fill="#83BFFF" opacity=".20"/></pattern>
+  <filter id="blur"><feGaussianBlur stdDeviation="24"/></filter>
+  <filter id="light"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="clip"><rect width="1280" height="360" rx="24"/></clipPath>
 </defs>
-<rect width="1200" height="300" rx="22" fill="url(#bg)"/>
-<rect x="580" y="0" width="620" height="300" fill="url(#grid)"/>
-<circle cx="905" cy="155" r="245" fill="url(#glow)"/>
-<path d="M56 50h28M56 50v26M1144 250h-28M1144 250v-26" fill="none" stroke="#66DAEB" stroke-width="2" opacity=".6"/>
-<rect x="56" y="36" width="137" height="27" rx="13.5" fill="#142A3C" stroke="#37667E"/>
-<circle cx="73" cy="49.5" r="4" fill="#62E2DD"/>
-<text x="85" y="54" fill="#B8EAF1" font-size="11" font-family="Consolas,monospace" letter-spacing="1.2">INDEPENDENT DEV</text>
-<text x="56" y="154" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="800" letter-spacing="-3.5" fill="#F0F7FF">EFE<tspan fill="#64DDEB">DEV</tspan><tspan fill="#A78BFA">.</tspan></text>
-<rect x="57" y="171" width="104" height="4" rx="2" fill="url(#accent)"/>
-<text x="56" y="213" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="600" letter-spacing="1" fill="#D5E4F0">EFE BILIR</text>
-<text x="56" y="249" font-family="Consolas,monospace" font-size="14.5" fill="#9AB8CC">Software  /  Automation  /  Game Systems  /  Web</text>
-<g fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path d="M735 151L838 88L953 145L1067 73M735 151L837 224L953 145L1084 232M838 88L837 224M1067 73L1084 232" stroke="#456D88" stroke-width="2"/>
-  <path d="M735 151L838 88L953 145L1067 73" stroke="url(#accent)" stroke-width="2.5" opacity=".85"/>
-  <path d="M735 151L837 224L953 145L1084 232" stroke="#73D6DE" stroke-width="1.3" opacity=".45"/>
+<g clip-path="url(#clip)">
+  <rect width="1280" height="360" fill="url(#bg)"/>
+  <path d="M0 0H1280V360H0Z" fill="url(#grid)" opacity=".9"/>
+  <rect x="731" width="549" height="360" fill="url(#dots)" opacity=".45"/>
+  <ellipse cx="1032" cy="177" rx="365" ry="312" fill="url(#halo)"/>
+  <path d="M-30 350L440 -95M80 405L555 -70M210 425L692 -65" stroke="#32749C" stroke-width="1" opacity=".16"/>
+  <path d="M670 0V360" stroke="#79B8FF" opacity=".13"/>
+  <path d="M58 47H190" stroke="url(#brand)" stroke-width="3" stroke-linecap="round"/>
+  <rect x="58" y="64" width="243" height="34" rx="17" fill="#102132" stroke="#3B6880" stroke-width="1"/>
+  <circle cx="78" cy="81" r="4.2" fill="#63F1DB" filter="url(#light)"/>
+  <text x="93" y="86" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.8" fill="#B7EAF1">INDEPENDENT DEVELOPER</text>
+  <text x="52" y="211" font-family="Segoe UI,Arial,Helvetica,sans-serif" font-size="133" font-weight="900" letter-spacing="-8" fill="#F4F8FF">EFE</text>
+  <text x="314" y="211" font-family="Segoe UI,Arial,Helvetica,sans-serif" font-size="133" font-weight="900" letter-spacing="-8" fill="url(#brand)">DEV</text>
+  <text x="589" y="211" font-family="Segoe UI,Arial,Helvetica,sans-serif" font-size="133" font-weight="900" fill="#BB8DFF">.</text>
+  <path d="M58 227H605" stroke="#93B7DD" stroke-width="1" opacity=".24"/>
+  <path d="M58 227H170" stroke="url(#brand)" stroke-width="3.5" stroke-linecap="round"/>
+  <text x="58" y="262" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="650" fill="#E0EAF9" letter-spacing="2.2">EFE BILIR</text>
+  <text x="201" y="262" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#A4B7CF">/  SOFTWARE &amp; SYSTEMS</text>
+  <text x="58" y="297" font-family="Consolas,monospace" font-size="13.5" letter-spacing=".9" fill="#8EB1C8">GAME ENGINEERING  /  DESKTOP AUTOMATION  /  INTERACTIVE WEB</text>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="982" cy="180" rx="197" ry="123" transform="rotate(-31 982 180)" stroke="#44C6E0" stroke-opacity=".22" stroke-width="2"/>
+    <ellipse cx="982" cy="180" rx="143" ry="153" transform="rotate(28 982 180)" stroke="url(#orb)" stroke-width="2.2" stroke-opacity=".9"/>
+    <ellipse cx="982" cy="180" rx="122" ry="130" transform="rotate(28 982 180)" stroke="#B8E5FF" stroke-width=".85" opacity=".2" stroke-dasharray="4 9"/>
+    <circle cx="982" cy="180" r="102" stroke="#7ACBFF" stroke-opacity=".36" stroke-width="1.5"/>
+    <circle cx="982" cy="180" r="84" stroke="#7995C9" stroke-opacity=".27" stroke-width=".8" stroke-dasharray="2 8"/>
+    <path d="M1002 48L1059 77M1155 158L1200 158M816 175L783 175M1018 307L1061 328" stroke="#7FC4FF" opacity=".36"/>
+    <path d="M940 119L1010 119L1027 137L1027 153L967 153L967 166L1023 166L1023 191L967 191L967 207L1027 207L1027 229L940 229Z" stroke="url(#orb)" stroke-width="5" filter="url(#light)"/>
+    <path d="M940 119L1010 119L1027 137L1027 153L967 153L967 166L1023 166L1023 191L967 191L967 207L1027 207L1027 229L940 229Z" fill="#14243B" fill-opacity=".7" stroke="url(#orb)" stroke-width="2"/>
+    <path d="M833 116L860 116M833 116L833 143M1131 255L1164 255M1164 225L1164 255" stroke="#6BF2F0" stroke-width="2" opacity=".75"/>
+  </g>
+  <g fill="#91E4FF">
+    <circle cx="833" cy="116" r="4" filter="url(#light)"/><circle cx="1126" cy="89" r="3.4"/><circle cx="859" cy="278" r="3"/><circle cx="1094" cy="292" r="4" filter="url(#light)"/>
+  </g>
+  <g font-family="Consolas,monospace" font-size="12" letter-spacing="1.2">
+    <rect x="1125" y="92" width="104" height="31" rx="8" fill="#141D35" stroke="#4C6F9C"/><text x="1140" y="113" fill="#C9DAF5">BUILD / 01</text>
+    <rect x="773" y="251" width="105" height="31" rx="8" fill="#10253A" stroke="#38768B"/><text x="785" y="272" fill="#B4E9F0">SHIP / 02</text>
+  </g>
+  <path d="M0 330H1280" stroke="#9AB0D7" stroke-width="1" opacity=".15"/>
+  <text x="59" y="348" font-family="Consolas,monospace" font-size="10.5" letter-spacing="1.4" fill="#809EB6">BUILD WITH PURPOSE. SHIP WITH CARE.</text>
+  <text x="1223" y="348" text-anchor="end" font-family="Consolas,monospace" font-size="11" letter-spacing="1.4" fill="#90A8D2">EFEDEV.COM.TR  /  2026</text>
+  <rect x="1" y="1" width="1278" height="358" rx="23" fill="none" stroke="#5A9AC4" stroke-opacity=".42" stroke-width="2"/>
 </g>
-<g font-family="Consolas,monospace" font-size="11" text-anchor="middle">
-  <rect x="686" y="131" width="98" height="39" rx="9" fill="#152E42" stroke="#67DCEB" stroke-width="1.4"/>
-  <text x="735" y="154" fill="#D4FAFF">DESIGN</text>
-  <rect x="798" y="68" width="80" height="39" rx="9" fill="#14283C" stroke="#5B9CC3"/>
-  <text x="838" y="92" fill="#C8DBEE">BUILD</text>
-  <rect x="791" y="205" width="92" height="39" rx="9" fill="#14283C" stroke="#5B9CC3"/>
-  <text x="837" y="229" fill="#C8DBEE">TEST</text>
-  <rect x="903" y="126" width="100" height="39" rx="9" fill="#1C2948" stroke="#A78BFA" stroke-width="1.5"/>
-  <text x="953" y="150" fill="#F0E9FF">SYSTEMS</text>
-  <rect x="1025" y="54" width="84" height="38" rx="9" fill="#14283C" stroke="#5B9CC3"/>
-  <text x="1067" y="78" fill="#C8DBEE">SHIP</text>
-  <rect x="1040" y="214" width="89" height="38" rx="9" fill="#14283C" stroke="#5B9CC3"/>
-  <text x="1084" y="237" fill="#C8DBEE">EVOLVE</text>
-</g>
-<text x="1135" y="287" text-anchor="end" fill="#6E91AC" font-size="10" font-family="Consolas,monospace" letter-spacing="1">EFEDEV / 2026</text>
 </svg>
